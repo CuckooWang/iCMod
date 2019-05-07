@@ -87,10 +87,10 @@ public class FPKM1 {
 			for(int i=0;i<genes.length;i++){
 				String gene = genes[i];
 				if(fpkm1 >= 1.0){
-					Z_tools.putinMap(hm1,prefix+time1,gene);
+					tools.putinMap(hm1,prefix+time1,gene);
 				}
 				if(fpkm2 >= 1.0){
-					Z_tools.putinMap(hm1,prefix+time2,gene);
+					tools.putinMap(hm1,prefix+time2,gene);
 				}
 			}
 		}
@@ -109,10 +109,10 @@ public class FPKM1 {
 			for(int i=0;i<genes.length;i++){
 				String gene = genes[i];
 				if(fpkm1 >= 1.0){
-					Z_tools.putinMap(hm1,prefix+time1,gene);
+					tools.putinMap(hm1,prefix+time1,gene);
 				}
 				if(fpkm2 >= 1.0){
-					Z_tools.putinMap(hm1,prefix+time2,gene);
+					tools.putinMap(hm1,prefix+time2,gene);
 				}
 			}
 		}
