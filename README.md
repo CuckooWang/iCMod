@@ -22,7 +22,7 @@ Contains some methods that the above programs need to call.
 This folder contains the files that needed for the test of above programs, it is should noting that some files are incomplete due to the limitation of upload size, such as "gene_exp.diff".
 
 ## Contact
-Yu Xue:xueyu@hust.edu.cn  
-Luoying Zhang:zhangluoying@hust.edu.cn  
-Chenwei Wang:wangchenwei@hust.edu.cn  
-Ke Shui:shuike@hust.edu.cn  
+Yu Xue: xueyu@hust.edu.cn  
+Luoying Zhang: zhangluoying@hust.edu.cn  
+Chenwei Wang: wangchenwei@hust.edu.cn  
+Ke Shui: shuike@hust.edu.cn  
