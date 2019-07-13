@@ -9,7 +9,7 @@ WT_3 samples quantified in both Batch 1 and Batch 4 were used as the normalizati
 ### PhosNormByPro.java
 The intensities of p-sites were normalized by the intensities of their corresponding proteins.
 ### GetFasta.java
-To generate the FASTA files for the prediction of site-specific kinase-substrate relations (ssKSRs) by GPS 2.1. 
+To generate the FASTA files for the prediction of site-specific kinase-substrate relations (ssKSRs) by GPS 2.1 (Release 2.1.2, http://gps.biocuckoo.org/download.php). 
 ### MetaCycleRun.R
 The code calls MetaCycle, an integrative R package that incorporated three computational programs including ARSER, JTK_CYCLE and Lomb-Scargle, for the detection of circadian oscillations at different levels.
 ### CalCricadianSiteKa.java
@@ -22,7 +22,7 @@ Contains some routine methods that the above programs need to call for multiple 
 This folder contains example data and files for testing above programs. It should be noted that some files are partially present due to the limitation of uploading size, such as "gene_exp.diff".
 
 ## Contact
-Yu Xue: xueyu@hust.edu.cn  
-Luoying Zhang: zhangluoying@hust.edu.cn  
+Dr. Yu Xue: xueyu@hust.edu.cn  
+Dr. Luoying Zhang: zhangluoying@hust.edu.cn  
 Chenwei Wang: wangchenwei@hust.edu.cn  
 Ke Shui: shuike@hust.edu.cn  
